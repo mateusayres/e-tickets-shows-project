@@ -1,10 +1,12 @@
 # E-Tickets-Shows-Project <img align="center" alt="mateusayres-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
-Simple show ticket management project, with connection to SQL database. To connect to the database, run the SQL Script Query at the end of the readme. 
+Simple show ticket management project, with connection to SQL database.<br> 
+To connect to the database, run the SQL Script Query below 
 
 **********************************************
 
-Projeto de gerenciamento de ingressos para show simples, com conexão com banco de dados SQL. Para conectar com o banco de dados, execute o SQL Script Query no fim do readme.
+Projeto de gerenciamento de ingressos para show simples, com conexão com banco de dados SQL.<br> 
+Para conectar com o banco de dados, execute o SQL Script Query abaixo.
 
 SQL Script: 
 ```
@@ -29,5 +31,5 @@ INSERT INTO ingressos (nome, tipo, valor, pagamento) VALUES
 ('Kauã Fonseca', 'Arquibancada', 150.00, 'Cartão de Crédito'),
 ('Miguel Oliveira', 'Camarote', 350.00, 'Cartão de Crédito');
 ```
-Preview: <br>
+Preview: <br><br>
 ![E-TicketsShows-Print](https://github.com/mateusayres/e-tickets-shows-project/assets/168099824/a46c3e8b-3be8-443d-9a52-55b11647193b)
